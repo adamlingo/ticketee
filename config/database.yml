@@ -9,12 +9,12 @@ default: &default
 
 development:
   <<: *default
-  database: core_redux_dev
+  database: ticketee_dev
 
 test:
   <<: *default
-  database: core_redux_test
+  database: ticketee_test
 
 production:
   <<: *default
-  database: core_redux_production
+  database: ticketee_production
