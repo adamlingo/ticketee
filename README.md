@@ -1,3 +1,6 @@
+## Storyboard issues via Waffle.io
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/adamlingo/ticketee.svg?columns=all)](https://waffle.io/adamlingo/ticketee)
+
 ## README
 
 This README would normally document whatever steps are necessary to get the
