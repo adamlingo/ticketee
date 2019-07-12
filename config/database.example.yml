@@ -36,8 +36,8 @@ default: &default
 
 development:
   <<: *default
-  database: core_redux_dev
+  database: app_name_dev
 
 test:
   <<: *default
-  database: core_redux_test
+  database: app_name_test
